@@ -21,6 +21,7 @@ y de la red neuronal.
 Desarrollo completo de un modelo de clasificación supervisada utilizando PyTorch y una red neuronal multicapa (MLP).
 
 > **Project description**  
+> 
 > It's time to show off your skills! Build, train, and evaluate a neural network model using PyTorch on a dataset of your choice.  
 > You can use any dataset available online or one from your previous assignments.  
 >  
@@ -46,5 +47,4 @@ Desarrollo completo de un modelo de clasificación supervisada utilizando PyTorc
 > 2. Create data loaders for training, validation, and testing.  
 > 3. Build a custom MLP module to tackle this classification task.  
 > 4. Train this model on the GPU, and try to reach 93% accuracy on the test set.  
->    For this, you will likely have to perform hyperparameter search to find the right number of layers and neurons per layer,  
->    a good learning rate and batch size, and so on. You can optionally use Optuna for this.
+>    For this, you will likely have to perform hyperparameter search to find the right number of layers and neurons per layer, a good learning rate and batch size, and so on. You can optionally use Optuna for this.
